@@ -9,7 +9,7 @@
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
 
-0.0.0.0 taobao.com
+0.0.0.0 www.taobao.com
 0.0.0.0 www.baidu.com
 0.0.0.0 cdnstoremedia.com
 0.0.0.0 admicro.vcmedia.com
