@@ -8,6 +8,8 @@
 ! Last modified: 2026-04-23T08:46:02.847Z
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+0.0.0.0 tracking3.vnncdn.net
+0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 taobao.com
 0.0.0.0 www.taobao.com
 0.0.0.0 baidu.com
